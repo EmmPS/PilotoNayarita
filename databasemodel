@@ -1,0 +1,55 @@
+{
+  "_id": "d7c19c98e273b3bf89bd82beb8d48a85",
+  "_rev": "1-e8ac78d32c32c373666e0f88d4f49303",
+  "company_name": "Test Company 1",
+  "company_city": "Tepic",
+  "company_state": "Nayarit",
+  "company_phone": "3112223344",
+  "company_web_site": "www.testcompany.com",
+  "company_email": "contact@testcompany.com",
+  "company_timezone": "GMT-6",
+  "company_address": {
+    "street": "Av de los Insurgentes",
+    "ext_number": "123",
+    "int_number": "098",
+    "zip_code": "63100"
+  },
+  "company_social_media": {
+    "facebook": "www.facebook.com/testcompany",
+    "twitter": "",
+    "instagram": "",
+    "whatsapp": "3112223344"
+  },
+  "company_working_days": {
+    "week_days": {
+      "mon": "true",
+      "tue": "true",
+      "wed": "true",
+      "thu": "true",
+      "fri": "true",
+      "open_from": "9:00",
+      "open_to": "14:00",
+      "open_from2": "16:00",
+      "open_to2": "20:00"
+    },
+    "weekend": {
+      "sat": {
+        "sat": "true",
+        "open_from": "9:00",
+        "open_to": "14:00",
+        "open_from2": "",
+        "open_to2": ""
+      },
+      "sun": {
+        "sun": "false",
+        "open_from": "",
+        "open_to": "",
+        "open_from2": "",
+        "open_to2": ""
+      }
+    }
+  },
+  "contact_first_name": "Pedro",
+  "contact_last_name": "Perez",
+  "contact_email": "pedro.perez@testcompany.com"
+}
